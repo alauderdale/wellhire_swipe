@@ -17,6 +17,7 @@ gem 'omniauth'
 gem 'omniauth-linkedin'
 gem 'simple_form'
 gem 'thin'
+gem 'rename'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
